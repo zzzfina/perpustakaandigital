@@ -1,8 +1,7 @@
 # Digital Library
 Selamat Datang di Perpustakaan Digital
-Berikut ini adalah Koleksi yang dimiliki:
+Berikut ini adalah koleksi yang dimiliki:
+
 ## Koleksi
-1. [Aspek Keragaman Inklusivitas Tanggung Jawab Sosial dan Hasil dari Model Perpustakaan Digital Bergerak dan LayananInformasi untuk Negara Berkembang:Argumen untuk Lesotho](ebook/Aspek Keragaman Inklusivitas Tanggung Jawab Sosial dan Hasil dari Model Perpustakaan Digital Bergerak dan Layanan Informasi untuk Negara Berkembang:Argumen untuk Lesotho.pdf) – Matseliso 'Mamahlape Moshoeshoe-Chadzingwa (2020) 
-2. Contoh buku lain
----
+1. [Enhancing Creative Learning in Thai Classical Dance Education: An Integration of Digital Preservation Framework with Ubiquitous Learning Environment](ebook/Digital Applications in Archaeology and Cultural Heritage.pdf) – Napatprapa Pathrapoowanun, Parama Kwangmuang, Apirat Siritaratiwat, dan Lan Thi Nguyen (2025)
 *Powered by GitHub Pages*
