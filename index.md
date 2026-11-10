@@ -28,8 +28,4 @@ Berikut ini adalah koleksi yang dimiliki:
 {% endfor %}
 </ol>
 
-Total collections: {{ total }} ebooks.
-
----
-
 *Digital Library*
