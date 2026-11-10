@@ -9,17 +9,6 @@ Berikut ini adalah koleksi yang dimiliki:
 1. [Enhancing Creative Learning in Thai Classical Dance Education: An Integration of Digital Preservation Framework with Ubiquitous Learning Environment](ebook/Digital Applications in Archaeology and Cultural Heritage.pdf) – Napatprapa Pathrapoowanun, Parama Kwangmuang, Apirat Siritaratiwat, dan Lan Thi Nguyen (2025)
 *Powered by GitHub Pages*
 
----
-layout: default
-title: Digital Library
----
-
-# Digital Library
-
-Welcome to the Digital Library. Here are the collections we have.
-
-## Collection
-
 {% assign ebooks = site.static_files | sort: "name" %}
 {% assign total = 0 %}
 
